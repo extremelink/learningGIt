@@ -3,3 +3,15 @@ and my favourite hero is panther
 im 1000 years old
 are you mad mortal
 im iron man
+who are you
+
+git remote add origin https://github.com/extremelink/learningGIt.git
+git branch -M main
+git push -u origin main
+
+git branch -M main
+git remote add origin https://github.com/extremelink/learningGIt.git
+git push -u origin main
+
+you cant use ctrl backslash
+here
