@@ -1,0 +1,18 @@
+h1{
+    color:blue;
+}
+
+/* div>p{
+    color:green;
+} */
+
+.hello.bye{
+color:yellow;
+}
+
+.bye>p>span{
+    color:red;
+}
+
+
+
